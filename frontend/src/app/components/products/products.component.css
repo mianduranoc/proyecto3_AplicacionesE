@@ -1,0 +1,48 @@
+/*.body{
+    font-family: Arial;
+}
+.container{
+    margin:  3% 10%;
+    padding: 3%;
+    border-radius: 3%;
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.5);
+}
+label{
+    display:block;
+    margin:5px;
+}
+input[type="text"],input[type="number"]{
+    padding: 1%;
+    font-size: 15px;
+    margin :5px;
+    width:70%;
+}
+input[type="submit"]{
+    padding: 1%;
+    font-size: 15px;
+    margin :10px;
+    width:70%;
+    border-radius:5px;
+    box-shadow: 1px 1px 1x 1px rgba(0, 0, 0, 0.3);
+    font-weight: bold;
+    cursor: pointer;
+}
+.table_container,.control{
+    display: inline-block;
+    vertical-align: top;
+    width:40%;
+    margin:auto;
+}
+th{
+    background-color: #f1f1f1;
+    border-right-style: solid;
+    border-width: 1px;
+}
+td{
+    font-size:10px;
+}
+*/
+
+body {
+  padding-top: 56px;
+}
